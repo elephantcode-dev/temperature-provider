@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: temperature-provider
+server:
+  port: 8080
+  servlet:
+    context-path: /temperature-provider
+
+app:
+  file:
+    directory: data-file
+    name: example_file.csv

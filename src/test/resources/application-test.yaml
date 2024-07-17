@@ -1,0 +1,4 @@
+app:
+  file:
+    directory: src/test/resources
+    name: example_file.csv
